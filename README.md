@@ -1,14 +1,13 @@
-# AWS EKS - Elastic Kubernetes Service - Masterclass
+# AWS EKS - Elastic Kubernetes services
 
-[![Image](https://stacksimplify.com/course-images/AWS-EKS-Kubernetes-Masterclass-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
 
 ## Course Modules
 
 | S.No | AWS Service Name |
 | ---- | ---------------- |
 | 1.   | Create AWS EKS Cluster using eksctl CLI |
-| 2.   | [Docker Fundamentals](https://github.com/stacksimplify/docker-fundamentals) |
-| 3.   | [Kubernetes Fundamentals](https://github.com/stacksimplify/kubernetes-fundamentals) |
+| 2.   | [Docker Fundamentals]
+| 3.   | [Kubernetes Fundamentals] 
 | 4.   | EKS Storage with AWS EBS CSI Driver |
 | 5.   | Kubernetes Important Concepts for Application Deployments |
 | 5.1  | Kubernetes - Secrets |
@@ -101,36 +100,8 @@
 | 30.  | DaemonSets - Fluentd for logs |
 | 31.  | Config Maps |
 
-## List of Docker Images  on Docker Hub
-
-| Application Name  | Docker Image Name |
-| ----------------- | ----------------- |
-| Simple Nginx V1  | stacksimplify/kubenginx:1.0.0  |
-| Spring Boot Hello World API  | stacksimplify/kube-helloworld:1.0.0  |
-| Simple Nginx V2  | stacksimplify/kubenginx:2.0.0  |
-| Simple Nginx V3  | stacksimplify/kubenginx:3.0.0  |
-| Simple Nginx V4  | stacksimplify/kubenginx:4.0.0  |
-| Backend Application  | stacksimplify/kube-helloworld:1.0.0  |
-| Frontend Application  | stacksimplify/kube-frontend-nginx:1.0.0  |
-| Kube Nginx App1  | stacksimplify/kube-nginxapp1:1.0.0  |
-| Kube Nginx App2  | stacksimplify/kube-nginxapp2:1.0.0  |
-| Kube Nginx App2  | stacksimplify/kube-nginxapp2:1.0.0  |
-| User Management Microservice with MySQLDB  | stacksimplify/kube-usermanagement-microservice:1.0.0  |
-| User Management Microservice with H2 DB  | stacksimplify/kube-usermanagement-microservice:2.0.0-H2DB  |
-| User Management Microservice with MySQL DB and AWS X-Ray  | stacksimplify/kube-usermanagement-microservice:3.0.0-AWS-XRay-MySQLDB  |
-| User Management Microservice with H2 DB and AWS X-Ray  | stacksimplify/kube-usermanagement-microservice:4.0.0-AWS-XRay-H2DB  |
-| Notification Microservice V1  | stacksimplify/kube-notifications-microservice:1.0.0  |
-| Notification Microservice V2  | stacksimplify/kube-notifications-microservice:2.0.0  |
-| Notification Microservice V1 with AWS X-Ray  | stacksimplify/kube-notifications-microservice:3.0.0-AWS-XRay  |
-| Notification Microservice V2 with AWS X-Ray  | stacksimplify/kube-notifications-microservice:4.0.0-AWS-XRay  |
 
 
-## List of Docker Images you build in AWS ECR
-
-| Application Name  | Docker Image Name |
-| ----------------- | ----------------- |
-| AWS Elastic Container Registry  | YOUR-AWS-ACCOUNT-ID.dkr.ecr.us-east-1.amazonaws.com/aws-ecr-kubenginx:DATETIME-REPOID  |
-| DevOps Usecase  | YOUR-AWS-ACCOUNT-ID.dkr.ecr.us-east-1.amazonaws.com/eks-devops-nginx:DATETIME-REPOID  |
 
 
 ## Sample Applications
@@ -166,20 +137,6 @@
 - Any beginner who is interested in learning kubernetes on cloud using AWS EKS. 
 - Any beginner who is interested in learning Kubernetes DevOps and Microservices deployments on Kubernetes
 
-## Each of my courses come with
-- Amazing Hands-on Step By Step Learning Experiences
-- Real Implementation Experience
-- Friendly Support in the Q&A section
-- 30 Day "No Questions Asked" Money Back Guarantee!
-
-## My Other AWS Courses
-- [Udemy Enroll](https://github.com/stacksimplify/udemy-enroll)
-
-## Stack Simplify Udemy Profile
-- [Udemy Profile](https://www.udemy.com/user/kalyan-reddy-9/)
 
 
-# Azure Kubernetes Service with Azure DevOps and Terraform 
-
-[![Image](https://stacksimplify.com/course-images/azure-kubernetes-service-with-azure-devops-and-terraform.png "Azure Kubernetes Service with Azure DevOps and Terraform")](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
 
